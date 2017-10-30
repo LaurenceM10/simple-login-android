@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SimpleLogin</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="sign_up">Registrarme</string>
+
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
 </resources>
